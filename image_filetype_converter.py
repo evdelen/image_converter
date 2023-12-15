@@ -1,6 +1,7 @@
 #! python3
 
-# A simple file type converter that preserves the Date Modified value from the original image.
+# A simple command line image file converter that preserves the Date Modified value from the original image.
+# TODO: Detect if a WEBP image is an animation or a static image and convert appropritely: static image to a static format, animated images to animated GIFs.
 
 
 
